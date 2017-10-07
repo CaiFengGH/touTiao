@@ -1,0 +1,12 @@
+[ 2017-10-03T19:46:53+08:00 ] 127.0.0.1 /index.php/amdin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Amdin
+
+[ 2017-10-03T19:46:54+08:00 ] 127.0.0.1 /index.php/amdin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Amdin
+

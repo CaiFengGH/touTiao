@@ -1,0 +1,2249 @@
+[ 2017-10-05T10:12:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2017-10-05T10:33:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-10-05T10:35:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2017-10-05T10:37:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-10-05T10:40:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001177s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001253s ]
+
+[ 2017-10-05T10:48:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2017-10-05T10:49:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-10-05T10:50:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007278s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007345s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-10-05T11:03:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-10-05T11:05:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-10-05T11:07:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2017-10-05T11:08:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-10-05T11:10:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-10-05T11:13:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-10-05T11:16:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-10-05T11:17:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000689s ]
+
+[ 2017-10-05T11:21:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2017-10-05T11:23:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-10-05T11:23:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-10-05T11:27:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2017-10-05T11:50:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-10-05T11:52:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2017-10-05T11:59:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-10-05T12:01:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-10-05T12:02:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+
+[ 2017-10-05T12:03:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-10-05T12:14:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009545s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2017-10-05T12:39:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008287s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-10-05T12:40:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-10-05T12:59:41+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-10-05T13:03:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-05T13:07:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-10-05T13:40:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2017-10-05T14:33:02+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2017-10-05T14:53:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000839s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-10-05T15:09:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2017-10-05T15:09:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-10-05T15:12:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-10-05T15:13:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-10-05T15:15:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-10-05T15:17:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-10-05T15:19:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-10-05T15:19:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2017-10-05T15:20:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000871s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-10-05T15:20:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001330s ]
+
+[ 2017-10-05T16:15:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000831s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-10-05T16:15:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-10-05T16:15:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-10-05T16:17:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2017-10-05T16:18:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-10-05T16:20:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009028s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2017-10-05T16:20:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2017-10-05T16:22:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001188s ]
+
+[ 2017-10-05T16:25:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-10-05T20:39:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-10-05T20:39:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-10-05T20:40:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001474s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-10-05T20:54:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-10-05T20:59:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011494s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2017-10-05T21:01:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-10-05T21:03:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-10-05T21:06:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2017-10-05T21:12:27+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001681s ]
+
+[ 2017-10-05T22:12:47+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010040s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-10-05T22:19:27+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+
+[ 2017-10-05T22:19:34+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+
+[ 2017-10-05T22:19:45+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+
+[ 2017-10-05T22:19:58+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2017-10-05T22:21:49+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001760s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2017-10-05T22:21:51+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002216s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-10-05T22:21:56+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-10-05T22:24:51+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+ERR: 1146:Table 'toutiao.toutiao_menus' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toutiao_menus`
+ERR: 1146:Table 'toutiao.toutiao_menus' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toutiao_menus`
+
+[ 2017-10-05T22:24:52+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+ERR: 1146:Table 'toutiao.toutiao_menus' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toutiao_menus`
+ERR: 1146:Table 'toutiao.toutiao_menus' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `toutiao_menus`
+
+[ 2017-10-05T22:25:27+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id desc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-05T22:26:37+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id desc  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: menu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: barMenu D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-10-05T22:27:25+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id desc  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-10-05T22:27:49+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001769s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2017-10-05T22:30:26+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 25 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037904s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-10-05T22:30:28+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 25 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-10-05T22:30:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 5 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 25 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+NOTIC: [8] Undefined variable: result D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001007s ]
+
+[ 2017-10-05T22:30:30+08:00 ] 127.0.0.1 /index.php?c=cat&id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载控制器:Cat
+
+[ 2017-10-05T22:30:46+08:00 ] 127.0.0.1 /index.php?c=cat&id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载控制器:Cat
+
+[ 2017-10-05T22:43:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+
+[ 2017-10-05T22:43:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0051s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-10-05T22:44:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0047s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2017-10-05T22:45:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0054s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-10-05T22:45:39+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-10-05T22:46:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0048s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001399s ]
+
+[ 2017-10-05T22:46:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0062s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001472s ]
+
+[ 2017-10-05T22:46:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0058s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id asc LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2017-10-05T22:49:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0053s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000997s ]
+
+[ 2017-10-05T22:49:50+08:00 ] 127.0.0.1 /index.php?c=detail&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T22:49:50+08:00 ] 127.0.0.1 /index.php?c=detail&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T22:54:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0057s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 2 ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2017-10-05T23:02:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0056s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 2 ORDER BY id desc LIMIT 3   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `toutiao_news` [ RunTime:0.0058s ]
+
+[ 2017-10-05T23:03:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001295s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0053s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 2 ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `toutiao_news` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `toutiao_news` WHERE `status` = 1 AND `thumb` <> '' ORDER BY news_id desc LIMIT 5   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2017-10-05T23:04:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 2 ORDER BY id desc LIMIT 3   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `toutiao_news` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `toutiao_news` WHERE `status` = 1 AND `thumb` <> '' ORDER BY news_id desc LIMIT 5   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024189s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2017-10-05T23:07:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `toutiao_position_content` [ RunTime:0.0054s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 1 ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: title D:\Workspace\touTiao\Application\Common\Model\PositionContentModel.class.php 第 31 行.
+SQL: SELECT * FROM `toutiao_position_content` WHERE `status` = 1 AND `position_id` = 2 ORDER BY id desc LIMIT 3   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `toutiao_news` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `toutiao_news` WHERE `status` = 1 AND `thumb` <> '' ORDER BY news_id desc LIMIT 5   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [2048] Declaration of Common\Model\BasicModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\BasicModel::select() should be compatible with Think\Model::select($options = Array) D:\Workspace\touTiao\Application\Common\Model\BasicModel.class.php 第 27 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+NOTIC: [2048] Declaration of Common\Model\MenuModel::find() should be compatible with Think\Model::find($options = Array) D:\Workspace\touTiao\Application\Common\Model\MenuModel.class.php 第 96 行.
+SQL: SHOW COLUMNS FROM `toutiao_menu` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `toutiao_menu` WHERE `status` = 1 AND `type` = 0 ORDER BY menu_id asc  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 26 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+NOTIC: [8] Undefined index: catId D:\Workspace\touTiao\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 28 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-10-05T23:08:46+08:00 ] 127.0.0.1 /index.php?c=detail&id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002169s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T23:08:47+08:00 ] 127.0.0.1 /index.php?c=detail&id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T23:09:01+08:00 ] 127.0.0.1 /index.php?c=detail&id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T23:09:02+08:00 ] 127.0.0.1 /index.php?c=detail&id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+ERR: 无法加载控制器:Detail
+
+[ 2017-10-05T23:10:34+08:00 ] 127.0.0.1 /index.php?c=cat&id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载控制器:Cat
+
+[ 2017-10-05T23:10:35+08:00 ] 127.0.0.1 /index.php?c=cat&id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+ERR: 无法加载控制器:Cat
+

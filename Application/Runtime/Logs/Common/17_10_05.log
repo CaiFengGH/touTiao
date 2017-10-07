@@ -1,0 +1,12 @@
+[ 2017-10-05T10:01:09+08:00 ] 127.0.0.1 /admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+ERR: 无法加载模块:Login
+
+[ 2017-10-05T10:01:10+08:00 ] 127.0.0.1 /admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Login
+
