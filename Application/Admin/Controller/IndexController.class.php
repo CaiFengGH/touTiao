@@ -12,10 +12,10 @@ class IndexController extends CommonController {
     	//获取推荐位个数
     	$positionNum = D("Position")->getCount(array('status'=>1));
 
-		//模板渲染
-		$this->assign('newsNum',$newsNum);    	
-		$this->assign('newsCount',$newsCount);    	
-		$this->assign('positionNum',$positionNum);    	
+	//模板渲染
+	$this->assign('newsNum',$newsNum);    	
+	$this->assign('newsCount',$newsCount);    	
+	$this->assign('positionNum',$positionNum);    	
     	
     	return $this->display();
     }
